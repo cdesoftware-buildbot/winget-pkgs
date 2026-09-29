@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.12.0.schema.json
 
 PackageIdentifier: CDESoftware.BLS-2027
-PackageVersion: 39.02.0001
+PackageVersion: 39.03.0011
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.12.0
